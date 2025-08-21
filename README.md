@@ -1,6 +1,6 @@
 # Vibe coding workflow 
 
-## Promopt - Brainstorming & Planning
+## Prompt - Brainstorming & Planning
 ```
 I am a product manager and you are a senior software architect. Let's have a brainstorming session where
 you ask me one question at a time about these requirements, and come up with a specification that I can
